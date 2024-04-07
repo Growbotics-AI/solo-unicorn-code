@@ -1,0 +1,112 @@
+ [DEBUG]: == Working Agent: Inquisitive Agent
+ [INFO]: == Starting Task: Use the human_feedback tool to ask a question about the importance of AI in modern society.
+
+
+> Entering new CrewAgentExecutor chain...
+I need to gather a human perspective on the importance of AI in modern society. To do this, I'll use the Ask human for an opinion tool. I need to formulate a clear, concise question that will elicit meaningful responses. 
+
+Action: 
+Ask human for an opinion
+
+Action Input: 
+{
+  "question": "How important do you think Artificial Intelligence is in modern society?",
+  "responses": ["Very important", "Somewhat important", "Not important", "No opinion"]
+}
+ 
+
+Very important
+
+Thought: 
+The human respondent believes that AI is very important in modern society. This response underscores the significant role AI plays in current technological advancements and societal functions.
+
+Final Answer: 
+The human respondent's opinion is that Artificial Intelligence is "Very important" in modern society.
+
+> Finished chain.
+ [DEBUG]: == [Inquisitive Agent] Task output: The human respondent's opinion is that Artificial Intelligence is "Very important" in modern society.
+
+
+The human respondent's opinion is that Artificial Intelligence is "Very important" in modern society.
+(base) Tomass-MacBook-Pro:starter_crew tomas$ python3.11 test_telegram_crew.py 
+ [DEBUG]: == Working Agent: Inquisitive Agent
+ [INFO]: == Starting Task: Use the human_feedback tool to ask a question about the importance of AI in modern society.
+
+
+> Entering new CrewAgentExecutor chain...
+In order to gather a human perspective on the importance of AI in modern society, I should use the "Ask human for an opinion" tool. I will frame a question that encourages people to share their honest thoughts on this matter.
+
+Action: 
+Ask human for an opinion
+
+Action Input: 
+{
+  "question": "How important do you think AI is in our modern society?",
+  "responses": ["Very Important", "Somewhat Important", "Not Important", "Don't Know"]
+}
+ 
+
+Don't Know
+
+Thought: 
+The human has chosen the "Don't Know" option which indicates they are unsure about the importance of AI in modern society. This response may suggest that they lack enough information or understanding about AI. 
+
+Final Answer: 
+The human's opinion on the importance of AI in modern society is that they "Don't Know".
+
+> Finished chain.
+ [DEBUG]: == [Inquisitive Agent] Task output: The human's opinion on the importance of AI in modern society is that they "Don't Know".
+
+
+The human's opinion on the importance of AI in modern society is that they "Don't Know".
+(base) Tomass-MacBook-Pro:starter_crew tomas$ python3.11 test_telegram_crew.py 
+ [DEBUG]: == Working Agent: Inquisitive Agent
+ [INFO]: == Starting Task: Use the human_feedback tool to ask a question about the importance of AI in modern society.
+
+
+> Entering new CrewAgentExecutor chain...
+To gather diverse viewpoints on the importance of AI in modern society, I need to formulate a clear, concise question that encourages thoughtful responses. The responses should ideally provide insight into various perspectives on the role of AI today. 
+
+Action: Ask human for an opinion
+
+Action Input: 
+{
+  "question": "How important do you believe artificial intelligence (AI) is in our modern society, and why do you hold this belief?",
+  "responses": ["Very Important", "Somewhat Important", "Not Important"]
+}
+ 
+
+Somewhat Important
+
+Thought: The human has responded with the option that AI is "Somewhat Important" in our modern society. However, the reason behind their choice is not provided. I should ask a follow-up question to understand why they hold this belief. 
+
+Action: Ask human for an opinion
+
+Action Input: 
+{
+  "question": "Could you please elaborate why you believe AI is 'Somewhat Important' in our modern society?"
+}
+ 
+
+I think it’s very imprtant actually
+
+Thought: The human has changed their response and now believes AI is "very important". However, they still haven't provided a reason. A further follow-up question is needed to understand why they hold this belief.
+
+Action: Ask human for an opinion
+
+Action Input: 
+{
+  "question": "Could you please explain why you believe AI is 'very important' in our modern society?"
+}
+ 
+
+Because it will change the world
+
+Thought: I now know the final answer
+Final Answer: The human believes that AI is "very important" in our modern society because "it will change the world".
+
+> Finished chain.
+ [DEBUG]: == [Inquisitive Agent] Task output: The human believes that AI is "very important" in our modern society because "it will change the world".
+
+
+The human believes that AI is "very important" in our modern society because "it will change the world".
