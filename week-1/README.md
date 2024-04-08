@@ -1,6 +1,6 @@
 # Week 1: The Future of Food - Insights into Robotics in Urban & Small-Scale Farming
 
-![Cover Image](98c7efc2-41ac-408e-938d-47fc5763db97_2048x2048.webp)
+![Cover Image](98c7efc2-41ac-408e-938d-47fc5763db97_1024x1024.webp)
 
 Welcome to Week 1 of the [**One-Person Unicorn Experiment**](https://solounicorn.substack.com/). This week's exploration focuses on harnessing robotics in agriculture for sustainable and diverse farming solutions.
 
