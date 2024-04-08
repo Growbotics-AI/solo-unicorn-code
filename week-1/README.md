@@ -13,7 +13,7 @@ In this folder, you'll find the code and resources used to explore the potential
 - [`human_feedback_api.py`](human_feedback_api.py): An experiment to create an API that allows sending Telegram messages and receiving feedback. This tool utilized Smee for setting up webhooks. Example to start Smee:
     ```shell
     # Example command to start Smee
-    smee -u https://smee.io/yourUniqueSmeeChannel
+    smee -u https://smee.io/yourUniqueSmeeChannel -t http://localhost:8080
     ```
 - **Example Response**: The example response from this experiment can be found in [`test_telegram_crew_response.txt`](test_telegram_crew_response.txt).
 - **CrewAI Feature Exploration**: We explored the integration of human input via the Telegram tool for added flexibility in CrewAI's execution, enhancing its decision-making capabilities.
@@ -26,7 +26,8 @@ In this folder, you'll find the code and resources used to explore the potential
       -e "TOKEN=6R0W53R135510" \
       ghcr.io/browserless/chromium
     ```
-  The raw output of this analysis is documented in [`report.txt`](growbotics_insights_crew/report.txt), with a formatted report available in [`growbotics_insights_crew/README.md`](growbotics_insights_crew/README.md).
+  The raw output of this analysis is documented in [report.txt](growbotics_insights_crew/report.txt), with a formatted report available in [README.md](growbotics_insights_crew/README.md).
+
 
 ## Blog Reference
 
