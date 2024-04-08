@@ -31,7 +31,7 @@ In this folder, you'll find the code and resources used to explore the potential
 
 ## Blog Reference
 
-For a detailed account of this week's journey and insights, refer to our blog post: [Week 1: The Future of Food - Insights into Robotics in Urban & Small-Scale Farming](https://solounicorn.substack.com/publish/post/143355521).
+For a detailed account of this week's journey and insights, refer to our blog post: [Week 1: The Future of Food - Insights into Robotics in Urban & Small-Scale Farming](https://open.substack.com/pub/solounicorn/p/week-1-the-future-of-food-insights?r=i8zum&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true).
 
 ### Explore the Code
 
