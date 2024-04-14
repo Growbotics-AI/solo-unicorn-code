@@ -13,6 +13,7 @@ This repository serves as a companion to the blog hosted on [Solo Unicorn](https
 Each week's focus is accompanied by a blog post and corresponding code, capturing the essence of the exploration and the tangible outcomes of that week's experiment:
 
 - **Week 1**: [The Future of Food - Insights into Robotics in Urban & Small-Scale Farming](https://open.substack.com/pub/solounicorn/p/week-1-the-future-of-food-insights?r=i8zum&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) | [Code](https://github.com/Growbotics-AI/solo-unicorn-code/tree/main/week-1)
+- **Week 2**: [Developing a Multi-Agent System and the Initial Mapping App](https://open.substack.com/pub/solounicorn/p/week-1-the-future-of-food-insights?r=i8zum&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) | [Code](https://github.com/Growbotics-AI/solo-unicorn-code/tree/main/week-2)
 
 Explore the code, share your insights, and contribute to the ongoing conversation as we uncover the potential of AI in shaping the future of solo entrepreneurship. Your engagement and feedback are invaluable in this collaborative journey of discovery and innovation.
 
