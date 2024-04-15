@@ -16,7 +16,7 @@ This week, our exploration is divided into two main assignments, detailed in sep
 
 ## Blog Reference
 
-For a detailed account of this week's journey and insights, refer to our blog post: [Week 2: Developing a Multi-Agent System and the Initial Mapping App](https://open.substack.com/pub/solounicorn/p/week-1-the-future-of-food-insights?r=i8zum&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true).
+For a detailed account of this week's journey and insights, refer to our blog post: [Week 2: Developing a Multi-Agent System and the Initial Mapping App](https://solounicorn.substack.com/p/week-2-developing-a-multi-agent-system).
 
 ### Explore the Code
 
