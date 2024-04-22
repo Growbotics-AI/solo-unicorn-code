@@ -18,7 +18,7 @@ Enhancements include an updated communication and AI interface, and a new API fo
 
 ## Blog Reference
 
-For a detailed account of this week's progress and insights, refer to our blog post: [Week 3: Enhancing Maps and Infinity Crew](https://solounicorn.substack.com/p/week-2-developing-a-multi-agent-system).
+For a detailed account of this week's progress and insights, refer to our blog post: [Week 3: Enhancing Maps and Infinity Crew](https://solounicorn.substack.com/p/week-3-enhancing-maps-and-infinity).
 
 ### Explore the Code
 
