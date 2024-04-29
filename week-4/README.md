@@ -18,7 +18,7 @@ This week's work on the Infinity Crew involved integrating various components in
 
 ## Blog Reference
 
-For insights into this week's progress, check out the blog post: [Week 4: Establishing Local Deployments of Services with Cloudflare Tunnels](https://solounicorn.substack.com/p/week-4-establishing-local-deployments-of-services-with-cloudflare-tunnels).
+For insights into this week's progress, check out the blog post: [Week 4: Establishing Local Deployments of Services with Cloudflare Tunnels](https://solounicorn.substack.com/p/week-4-establishing-local-deployments).
 
 ### Explore the Code
 
