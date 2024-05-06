@@ -23,6 +23,6 @@ Although there are no new specific code snippets this week, you can find the lat
 
 For insights into this week's progress, check out the blog post:
 
-- [Week 5: Infinity Crew Live & Maps Sign-In Ready](https://solounicorn.substack.com/p/week-5-infinity-crew-live)
+- [Week 5: Infinity Crew Live & Maps Sign-In Ready](https://solounicorn.substack.com/p/week-5-infinity-crew-live-and-maps)
 
 Thank you for following along, and stay tuned for further updates in the coming weeks!
