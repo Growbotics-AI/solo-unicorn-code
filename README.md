@@ -17,7 +17,7 @@ Each week's focus is accompanied by a blog post and corresponding code, capturin
 - **Week 3**: [Enhancing Maps and Infinity Crew](https://solounicorn.substack.com/p/week-3-enhancing-maps-and-infinity) | [Code](https://github.com/Growbotics-AI/solo-unicorn-code/tree/main/week-3)
 - **Week 4**: [Establishing Local Deployments of Services with Cloudflare Tunnels](https://solounicorn.substack.com/p/week-4-establishing-local-deployments) | [Code](https://github.com/Growbotics-AI/solo-unicorn-code/tree/main/week-4)
 - **Week 5**: [Infinity Crew Live & Maps Sign-In Ready](https://solounicorn.substack.com/p/week-5-infinity-crew-live-and-maps)
-
+- **Week 6**: [Updates on the Places API and Other Developments](https://solounicorn.substack.com/p/week-6-updates-on-the-places-api)
 
 Explore the code, share your insights, and contribute to the ongoing conversation as we uncover the potential of AI in shaping the future of solo entrepreneurship. Your engagement and feedback are invaluable in this collaborative journey of discovery and innovation.
 
